@@ -1,0 +1,38 @@
+var class_ogre_1_1_vertex_animation_track =
+[
+    [ "TargetMode", "class_ogre_1_1_vertex_animation_track.html#a8428fcdefb79b2dd650b22968a3e8134", [
+      [ "TM_SOFTWARE", "class_ogre_1_1_vertex_animation_track.html#a8428fcdefb79b2dd650b22968a3e8134a2e9398cdf64d0a07033f83a3ddaadf2c", null ],
+      [ "TM_HARDWARE", "class_ogre_1_1_vertex_animation_track.html#a8428fcdefb79b2dd650b22968a3e8134a8c5fb4696cb266eb28aa2ec029aad0c3", null ]
+    ] ],
+    [ "VertexAnimationTrack", "class_ogre_1_1_vertex_animation_track.html#a06136478dc5dff67a65d50067628a24b", null ],
+    [ "VertexAnimationTrack", "class_ogre_1_1_vertex_animation_track.html#ad608609aaa85876c7c23c298e446cdff", null ],
+    [ "_applyBaseKeyFrame", "class_ogre_1_1_vertex_animation_track.html#a6a2e377adc0c21f46907ac73553c2024", null ],
+    [ "_buildKeyFrameIndexMap", "class_ogre_1_1_vertex_animation_track.html#af25294adccef1ab3c5d456aee2c5cb29", null ],
+    [ "_clone", "class_ogre_1_1_vertex_animation_track.html#a1aca615eb45df1be9c57f95e6889512e", null ],
+    [ "_collectKeyFrameTimes", "class_ogre_1_1_vertex_animation_track.html#a9e950713ebb7b1c51fdd90ec8378c2cc", null ],
+    [ "_keyFrameDataChanged", "class_ogre_1_1_vertex_animation_track.html#a715b6d025247c4857a5deba9376ae48c", null ],
+    [ "apply", "class_ogre_1_1_vertex_animation_track.html#a142ab858538a9984b4cf2b5267fcda45", null ],
+    [ "applyToVertexData", "class_ogre_1_1_vertex_animation_track.html#a2a0f0bf65e74c4cd3a92fd60e2e26cbe", null ],
+    [ "createKeyFrame", "class_ogre_1_1_vertex_animation_track.html#a4517a1b16d6cb601754d98841bb4d7d6", null ],
+    [ "createVertexMorphKeyFrame", "class_ogre_1_1_vertex_animation_track.html#a827ce0ebb406c71ef1868edf98ef58fc", null ],
+    [ "createVertexPoseKeyFrame", "class_ogre_1_1_vertex_animation_track.html#a4b0bd6098fec16a9e1083f0e36a755e9", null ],
+    [ "getAnimationType", "class_ogre_1_1_vertex_animation_track.html#aa2c105e1ad534cdd9938331f8eb1cae6", null ],
+    [ "getAssociatedVertexData", "class_ogre_1_1_vertex_animation_track.html#aa1c92109ea295276cb6730ba8f155a64", null ],
+    [ "getHandle", "class_ogre_1_1_vertex_animation_track.html#a32de796f12f6afee4c93e12625535577", null ],
+    [ "getInterpolatedKeyFrame", "class_ogre_1_1_vertex_animation_track.html#a971c33f7d8d93cbf93dc0ec51fb5d71d", null ],
+    [ "getKeyFrame", "class_ogre_1_1_vertex_animation_track.html#af27f57a984619052cca4726cdfd26f3c", null ],
+    [ "getKeyFramesAtTime", "class_ogre_1_1_vertex_animation_track.html#a55533ed5218c6d423e9443afa2580f5a", null ],
+    [ "getNumKeyFrames", "class_ogre_1_1_vertex_animation_track.html#ae0c1160b89c7f2be74ae2962239bd732", null ],
+    [ "getParent", "class_ogre_1_1_vertex_animation_track.html#a2e5269293886cae1d0bc7e0255b239fd", null ],
+    [ "getTargetMode", "class_ogre_1_1_vertex_animation_track.html#a9ba2ac9172215ae3abfdf2cda61da663", null ],
+    [ "getVertexAnimationIncludesNormals", "class_ogre_1_1_vertex_animation_track.html#aa2dfe3257d2a56e6b18505d51146da96", null ],
+    [ "getVertexMorphKeyFrame", "class_ogre_1_1_vertex_animation_track.html#a1c9ac9c5e75c9db77b7aad8dd7b651ab", null ],
+    [ "getVertexPoseKeyFrame", "class_ogre_1_1_vertex_animation_track.html#a2e934a3d97a57275a0466c5f48281875", null ],
+    [ "hasNonZeroKeyFrames", "class_ogre_1_1_vertex_animation_track.html#afa0e80d8dd451a65d89f7f9365a929e5", null ],
+    [ "optimise", "class_ogre_1_1_vertex_animation_track.html#a366c0dfa30d9b59d685ff1f7622b5ba7", null ],
+    [ "removeAllKeyFrames", "class_ogre_1_1_vertex_animation_track.html#ac8f7b83d742998ed46c8cdb10e404df6", null ],
+    [ "removeKeyFrame", "class_ogre_1_1_vertex_animation_track.html#a3e1ccd99179d804992a5224fe811c2dd", null ],
+    [ "setAssociatedVertexData", "class_ogre_1_1_vertex_animation_track.html#aa37cffa57bfec055af3982f6c50c45a9", null ],
+    [ "setListener", "class_ogre_1_1_vertex_animation_track.html#afe26aa738aca34c07407b6566b5d9eeb", null ],
+    [ "setTargetMode", "class_ogre_1_1_vertex_animation_track.html#ad3def6ebcacc946484a16745ba89a060", null ]
+];

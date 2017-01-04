@@ -1,0 +1,6 @@
+<map id="Ogre::VertexDeclaration" name="Ogre::VertexDeclaration">
+<area shape="rect" id="node3" href="$class_ogre_1_1_d3_d11_vertex_declaration.html" title="Specialisation of VertexDeclaration for D3D11. " alt="" coords="382,5,585,32"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_d3_d9_vertex_declaration.html" title="Specialisation of VertexDeclaration for D3D9. " alt="" coords="385,56,581,83"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_g_l_e_s2_vertex_declaration.html" title="Specialisation of VertexDeclaration for OpenGL ES 2 Vertex Array Object usage. " alt="" coords="381,107,585,133"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="5,56,123,83"/>
+</map>
